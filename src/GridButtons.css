@@ -1,0 +1,7 @@
+div.GridButtons button
+{
+	display: inline-block;
+	float: right;
+	padding: 5px 5px 5px 5px;
+	margin: 5px 5px 5px 5px;
+}
